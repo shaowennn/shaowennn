@@ -10,8 +10,8 @@
 
   | 名称               | 内容                                                         |
   | ------------------ | ------------------------------------------------------------ |
-  |<a href="https://github.com/shaowennn/Flower-Recognition" target="_blank">花卉识别系统</a>| 一款基于 TensorFlow 深度学习的花卉识别系统                |
-  |<a href="https://github.com/shaowennn/Cat-Face-Detector" target="_blank">猫脸识别系统</a>| 一款基于 OpenCV 图像处理的猫脸识别系统                |
+  |<a href="https://github.com/shaowennn/Flower-Recognition" target="_blank">花卉识别系统</a>| 一款基于 TensorFlow 深度学习的花卉识别系统❀                |
+  |<a href="https://github.com/shaowennn/Cat-Face-Detector" target="_blank">猫脸识别系统</a>| 一款基于 OpenCV 图像处理的猫脸识别系统🐱                |
   |<a href="https://github.com/shaowennn/Coffee-Shop" target="_blank">网上咖啡店系统</a>| 一款基于 JavaWeb 的网上咖啡店系统               |
   | 更多作品努力开发中 | ... ... ✊                                                          |
 <br>
