@@ -1,4 +1,4 @@
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<h2 align="center"> 👋 欢迎访问我的 GitHub </h2>
 <br>
 
 **关于我**
@@ -10,18 +10,18 @@
 
   | 名称               | 内容                                                         |
   | ------------------ | ------------------------------------------------------------ |
-  |<a href="https://github.com/shaowennn/Flower-Recognition" target="_blank">花卉识别系统</a>| 一款基于 TensorFlow 深度学习的花卉识别系统🌹                |
-  |<a href="https://github.com/shaowennn/Cat-Face-Detector" target="_blank">猫脸识别系统</a>| 一款基于 OpenCV 图像处理的猫脸识别系统🐱                |
-  |<a href="https://github.com/shaowennn/Coffee-Shop" target="_blank">网上咖啡店系统</a>| 一款基于 JavaWeb 的网上咖啡店系统☕️               |
+  |<a href="https://github.com/shaowennn/Flower-Recognition" target="_blank">花卉识别系统</a>| 一款基于 TensorFlow 深度学习的花卉识别系统 🌹                |
+  |<a href="https://github.com/shaowennn/Cat-Face-Detector" target="_blank">猫脸识别系统</a>| 一款基于 OpenCV 图像处理的猫脸识别系统 🐱                |
+  |<a href="https://github.com/shaowennn/Coffee-Shop" target="_blank">网上咖啡店系统</a>| 一款基于 JavaWeb 的网上咖啡店系统 ☕️               |
   | 更多作品努力开发中 | ... ... ✊                                                          |
 <br>
 
 **我的技能**
-- 😄**前端** HTML、CSS、JavaScript
-- 😃**后端** Python、Java、C
-- 😶**设计** Photoshop、Premiere、Audition
-- 😝**框架** Django、Flask、Servlet
-- 😎**深学** OpenCV、TensorFlow、Keras
+- 😄 **前端** HTML、CSS、JavaScript
+- 😃 **后端** Python、Java、C
+- 😶 **设计** Photoshop、Premiere、Audition
+- 😝 **框架** Django、Flask、Servlet
+- 😎 **深学** OpenCV、TensorFlow、Keras
 <br>
 
 **探索时间**
